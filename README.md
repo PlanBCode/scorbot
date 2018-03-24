@@ -1,1 +1,3 @@
-# scorbot
+# Scorbot
+
+![Screenshot](screenshot.jpg)
