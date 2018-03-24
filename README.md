@@ -1,6 +1,6 @@
 # Scorbot
 
-Processing code to control Scorbot-ER V plus by using the mouse.
+Processing code to control Scorbot-ER V plus by using the mouse. Next step is have the robot pick-up en place marbles on a grid to play the Game Of Life.
 
 ```java
 float xx = map(mouseX, 0, width, -1, 1);
